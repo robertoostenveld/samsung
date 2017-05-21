@@ -1,5 +1,6 @@
-This is a web interface for the Samsung Smart TV that is built on
-top of https://www.npmjs.com/package/samsung-remote
+This is a web interface for the Samsung Smart TV. It is built on
+top of https://www.npmjs.com/package/samsung-remote and
+https://www.npmjs.com/package/express.
 
 Use as
 ```
