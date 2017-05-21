@@ -9,6 +9,7 @@
   "author": "Robert Oostenveld",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.15.3",
     "samsung-remote": "^1.2.5"
   }
 }
