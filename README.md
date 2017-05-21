@@ -6,7 +6,7 @@ the [IFTTT](http://ifttt.com) Maker channel.
 
 Use as
 ```
-  curl -X get http://hostname/command
+  curl -X get http://hostname:3010/command
 ```
 where the command is one of the following
 ```
