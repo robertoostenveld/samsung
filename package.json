@@ -1,0 +1,14 @@
+{
+  "name": "samsung",
+  "version": "1.0.0",
+  "description": "Samsung TV web control",
+  "main": "samsung.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert Oostenveld",
+  "license": "ISC",
+  "dependencies": {
+    "samsung-remote": "^1.2.5"
+  }
+}
